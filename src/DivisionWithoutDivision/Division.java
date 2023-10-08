@@ -6,7 +6,8 @@ package DivisionWithoutDivision;
  *
  * my notes:
  * what is division?  how many times does n go into m evenly since remainder doesn't matter?
- * can use a while loop to decrememnt from m by n per iteration
+ * can use a while loop to decrememnt from m by n per iteration, could also increment from 0.
+ * which option we choose (decrement/increment) shouldn't matter
  */
 
 public class Division {
